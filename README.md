@@ -13,3 +13,4 @@ Streamit is a simple OTT platform project with basic functionalities like having
 
 ![Streamit (2)](https://user-images.githubusercontent.com/104861164/215502182-1a5a89a6-6a42-4099-8470-fb0419355ff1.png)
 
+![Streamit (2)](https://user-images.githubusercontent.com/104861164/215546009-b93651c4-6c99-4a25-8e94-f6e6f88d82a5.png)
